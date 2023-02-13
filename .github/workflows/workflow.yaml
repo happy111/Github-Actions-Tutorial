@@ -30,4 +30,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run bash
-        run: hello.sh
+        run: bash hello.sh
